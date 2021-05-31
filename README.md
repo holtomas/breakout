@@ -7,6 +7,6 @@
 - použit programovací jazyk Java 
 - využití knihovny JavaFX
 # spuštění hry
-- hru lze spustit pres exe file ve složce PlayGame
+- hru lze spustit pomocí breakout.jar
 # Podrobnější informace v Dokumentace.pdf
 
